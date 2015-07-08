@@ -1,0 +1,90 @@
+
+h3{
+	font-weight: bold;
+	color: #6B8E23;
+}
+
+.post:hover{
+  background: #fcf5e2;
+}
+
+.menu-label:hover {
+	color: #6B8E23;
+}
+
+.post-category:hover{
+	background: #6B8E23;
+}
+
+a:hover {
+	color: #6B8E23;
+}
+
+body{
+	background: orange;
+}
+
+.error{
+	background: #6B8E23;
+}
+
+.header{
+	background: orange;
+	padding: 0 12%;
+	margin-bottom: 0;
+}
+
+.grid{
+	width: 76%;
+	border-radius: 10px;
+}
+
+.top-nav .header {
+	margin-bottom: 0;
+}
+.tagline{
+	margin: auto;
+	/*margin: 0 0 1% 0;*/
+	text-align: center;
+	padding: 0 12%;
+}
+
+.top-nav {
+	padding: 0 12%;
+	margin-bottom: 0;
+}
+
+.top-nav .header .logo {
+	font-size: 36px;
+}
+
+.post-heading .post-title:visited{
+	color: #6B8E23;
+}
+
+.post-meta a:hover {
+	color: #6B8E23;
+}
+
+.btn-primary, .submit{
+	background-color: #6B8E23;
+}
+
+/*.btn-primary {
+	background-color: #6B8E23;
+}
+*/
+
+/*.font {
+	font-family: 'Open Sans';
+}*/
+
+
+
+
+
+
+
+
+
+
